@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "349243351286",
+    "firebase_url": "https://gruhmasala1.firebaseio.com",
+    "project_id": "gruhmasala1",
+    "storage_bucket": "gruhmasala1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349243351286:android:d988fadfc9fec889",
+        "android_client_info": {
+          "package_name": "com.janvi.gruhmasala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349243351286-n4nr8dvjbvmm2mm7j1uo340ps5bq0irh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEOEPF6rLdPuJiJqiZlQNiTIRISAS2EPs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
